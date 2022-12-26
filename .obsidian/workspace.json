@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "2329ace3ae1d4cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c53bcd966a01c84b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f90506d121ee0904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2018-01-12-a-week-with-the-apple-watch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d38dab56d30d5fa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-12-26-test-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "afb71c23994637ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e1cbb8c7ba76342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-12-26-test-1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "655d39fcd8f47742",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c4348b46134aad8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5b7c4475449a63d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bd6601d885d8fb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "287d75e44422c06b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 430.5
+  },
+  "right": {
+    "id": "522d4b807d79813c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5325010600aedf6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a06c0da39dcbf30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-12-26-test-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f578b4d3257a780b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2022-12-26-test-1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1673aec59d6bbadb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "47c2286b013e991d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2022-12-26-test-1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "0e1cbb8c7ba76342",
+  "lastOpenFiles": [
+    "_posts/2018-01-12-a-week-with-the-apple-watch.md",
+    "_posts/2022-12-26-test-1.md",
+    "무제 파일.md"
+  ]
+}
