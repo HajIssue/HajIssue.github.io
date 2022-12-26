@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-12-26-test-1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2018-01-12-a-week-with-the-apple-watch.md",
+                "file": "_posts/2022-12-26-test-1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "afb71c23994637ce",
@@ -176,10 +177,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f90506d121ee0904",
+  "active": "c0e08cdbec4ed024",
   "lastOpenFiles": [
-    "_posts/2018-01-12-a-week-with-the-apple-watch.md",
+    "README.md",
     "_posts/2022-12-26-test-1.md",
+    "_posts/2018-06-12-history-of-visual-communication.md",
+    "_posts/2018-05-12-six-things-that-will-make-or-break-fusion-festival.md",
+    "_posts/2018-04-15-how-to-start-learning-blockchain-development.md",
+    "_posts/2018-04-02-working-from-home.md",
+    "_posts/2018-01-12-a-week-with-the-apple-watch.md",
     "assets/images/posts/dotTest1.png.md",
     "무제 파일.md"
   ]
